@@ -1,0 +1,10 @@
+[package]
+name = "seerah-rs-wufud-tribes-atlas"
+version = "1.0.0"
+edition = "2021"
+description = "Year of Delegations (9 AH 'Am Al-Wufud) Arabian Tribal GIS Atlas"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "seerah_rs_wufud_tribes_atlas"
+path = "main.rs"
